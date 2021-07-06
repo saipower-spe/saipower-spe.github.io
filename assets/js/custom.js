@@ -3,7 +3,7 @@
 
     var title = ["Sai", "Power", "Electricals"];
     var email = "saipower.spe@gmail.com";
-    var phone = "+91 9894432131 +91 9940652100";
+    var phone = ["+91 9894432131", "+91 9940652100"];
     var description = "We are team of talented electrical contractors managing all electrical related engineering work";
     var address = "No.15, Third Street, R.E.Nagar, Porur, Chennai–600 116";
 
@@ -24,8 +24,8 @@
     document.getElementById("fill-email-1").href = "mailto:"+email;
     document.getElementById("fill-email-2").innerHTML = email;
 
-    document.getElementById("fill-phone-1").innerHTML = phone;
-    document.getElementById("fill-phone-2").innerHTML = phone;
+    document.getElementById("fill-phone-1").innerHTML = phone[1];
+    document.getElementById("fill-phone-2").innerHTML = phone[0] + "<br>" + phone[1];
 
     document.getElementById("fill-address-1").innerHTML = address;
 
