@@ -1,14 +1,14 @@
 (function() {
     "use strict";
 
-    var title = ["Sai", "Power", "Company"];
-    var email = "myemail@gmail.com";
-    var phone = "+91 1234567890";
+    var title = ["Sai", "Power", "Electricals"];
+    var email = "saipower.spe@gmail.com";
+    var phone = "+91 9894432131 +91 9940652100";
     var description = "We are team of talented electrical contractors managing all electrical related engineering work";
     var address = "No.15, Third Street, R.E.Nagar, Porur, Chennai–600 116";
 
     var count1 = 3;
-    var count2 = 5;
+    var count2 = 10;
     var count3 = 15;
     
     console.log("Start filling values");
