@@ -5,7 +5,7 @@
     var email = "saipower.spe@gmail.com";
     var phone = ["+91 9894432131", "+91 9940652100"];
     var description = "We are team of talented electrical contractors managing all electrical related engineering work";
-    var address = "No.15, Third Street, R.E.Nagar, Porur, Chennai–600 116";
+    var address = "No.15, Third Street West, R.E.Nagar, Porur, Chennai–600 116";
 
     var count1 = 6;
     var count2 = 10;
